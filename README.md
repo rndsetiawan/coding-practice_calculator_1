@@ -1,7 +1,7 @@
-# Calculator-using-HTML-CSS-JS
-In this repl, we create a simple calculator using HTML, CSS and JavaScript.
+# Calculator #1
 
-Fork from:
-<a href="https://replit.com/@codewithharry/Calculator-using-HTML-CSS-JS">
-Calculator-using-HTML-CSS-JS by codewithharry on Replit
-</a>
+Create a simple calculator using HTML, CSS and JavaScript.
+
+---
+
+This is **Clone Repository** from **Replit** <a href="https://replit.com/@codewithharry"> codewithharry</a>
